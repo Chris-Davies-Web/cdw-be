@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_info_blob_info_blobs",
+  "info": {
+    "displayName": "Info Blob",
+    "icon": "seed"
+  },
+  "options": {},
+  "attributes": {
+    "mat_icon_name": {
+      "type": "string"
+    },
+    "header": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_text_item_text_items",
+  "info": {
+    "displayName": "text-item",
+    "icon": "filter",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

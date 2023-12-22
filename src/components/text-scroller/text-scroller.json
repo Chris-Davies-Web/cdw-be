@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_text_scroller_text_scrollers",
+  "info": {
+    "displayName": "text scroller",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "component",
+      "repeatable": true,
+      "component": "text-item.text-item"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "information_blobs",
+  "info": {
+    "singularName": "information-blob",
+    "pluralName": "information-blobs",
+    "displayName": "information blob"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "info_blob": {
+      "type": "component",
+      "repeatable": true,
+      "component": "info-blob.info-blob"
+    }
+  }
+}
